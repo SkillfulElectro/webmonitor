@@ -1,5 +1,3 @@
-// main.js
-
 const { app, BrowserWindow, session } = require('electron');
 const path = require('path');
 const fs = require('fs');
